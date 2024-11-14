@@ -33,7 +33,7 @@ Weak or Strong: 3.2
 
 > However, consider the following:
 
-> Clarity: While the license is generally clear, some terms could be more concise or precise. For example, the "Additional Credits" section could be more specific about the required level of detail for citing differences between forked versions.
+> Clarity: <br>While the license is generally clear, some terms could be more concise or precise. For example, the "Additional Credits" section could be more specific about the required level of detail for citing differences between forked versions.
 
 >Legal Review: It's always advisable to consult with a legal professional to ensure your license complies with relevant laws and regulations, especially if you plan to distribute your software commercially.
 By addressing these points, you can further strengthen your license and protect your interests while promoting open-source development.

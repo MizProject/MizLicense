@@ -1,6 +1,6 @@
 # License Rating
 
-License rating for [MizLicense](LICENSE)
+License rating for [MizLicense v1.0](LICENSE)
 
 Score
 

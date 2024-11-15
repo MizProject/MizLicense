@@ -4,7 +4,7 @@ License rating for [MizLicense v1.1](LICENSE)
 
 Score
 
-![Score](https://img.shields.io/badge/Rating-6.9-orange?style=for-the-badge)
+![Score](https://img.shields.io/badge/Rating-5.5-yellow?style=for-the-badge)
 
 Criteria: 
 

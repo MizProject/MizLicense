@@ -1,0 +1,31 @@
+MizLicense Controlled License Agreement v1
+
+- Open Source License
+
+This software, including its source code and finished product, is freely available for anyone to copy and use.
+
+- Modifications and Repository Management
+
+Any modifications to the repository that are not planned to be merged into the main repository must be clearly communicated to the public. Users must be aware of the differences between the main repository and any forked versions.
+
+- Inclusion of Other Open Source Projects
+
+This software may include other open source licensed projects. Users will be informed about these bundled projects and their respective licenses. Any other open source project that has a license prohibiting cross-licensing (i.e., being bundled with other projects) should not be included.
+
+- Warranty Disclaimer
+
+The software and its source code are provided "as is," without any warranty of any kind, express or implied. The use of the software is at the user's own risk.
+
+- Commercial Use Notification and Approval
+
+Any commercial entity planning to use the whole or part of the software must notify the owner before doing so. This includes, but is not limited to, modifications, integrations, or distribution of the software.
+
+The owner reserves the right to allow or disallow the commercial use of the software. Commercial entities must obtain explicit permission from the owner for any such use.
+
+- Impact of Incorporating Other Projects
+
+If this software includes components from other open source projects, the entire project developed by the owner may be subject to the terms and conditions of those incorporated projects. 
+
+This means that certain protections and restrictions may no longer apply, and commercial entities may have access to the software under the terms of the included projects’ licenses. The owner cannot set fees or prevent commercial use if it conflicts with the included projects' licenses.
+
+If the included open source projects have the same license as this software, the owner retains the ability to protect against commercial use by any entity opposed by the owner. The protections against commercial entities, where the owner opposes such use, are still active.
